@@ -14,15 +14,17 @@ your feedback shapes it.
 **[Get the latest playtest →](https://github.com/Tallsam20/veil-playtest/releases/latest)**
 
 Under **Assets**, download the `Veil-of-Night-Windows-Playtest-….zip` file
-(about 640 MB). It's for 64-bit Windows. The release page lists what's new in
+(about 660 MB). It's for 64-bit Windows. The release page lists what's new in
 each build.
 
 ## Install and play
 
 1. Right-click the ZIP and choose **Extract All**. Don't run the game from
    inside the ZIP.
-2. Open the extracted folder and double-click **VeilOfNight.exe**. Keep
-   `VeilOfNight.pck` in the same folder.
+2. Open the extracted folder, then the **Game** folder, and double-click
+   **VeilOfNight.exe**. Keep the folders together: `VeilOfNight.pck` stays
+   next to it, and `Tools` and `ArtSource` stay beside `Game` (the game checks
+   one character's original art there).
 3. Windows may show **"Windows protected your PC"**, because the game isn't
    code-signed yet. Click **More info**, then **Run anyway**.
 4. Start a new campaign. Nothing else needs to be installed.
