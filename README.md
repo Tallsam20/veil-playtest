@@ -14,7 +14,8 @@ your feedback shapes it.
 **[Get the latest playtest →](https://github.com/Tallsam20/veil-playtest/releases/latest)**
 
 Under **Assets**, download the `Veil-of-Night-Windows-Playtest-….zip` file
-(about 570 MB). It's for 64-bit Windows.
+(about 640 MB). It's for 64-bit Windows. The release page lists what's new in
+each build.
 
 ## Install and play
 
@@ -26,10 +27,14 @@ Under **Assets**, download the `Veil-of-Night-Windows-Playtest-….zip` file
    code-signed yet. Click **More info**, then **Run anyway**.
 4. Start a new campaign. Nothing else needs to be installed.
 
+**Finding your way:** the lead in the side panel always names your next
+step. *How to play* and *Replay world introduction* are on the title screen.
+
 **Controls:**
 - **Click** gold markers to approach and investigate.
 - **1–4** pick an investigator.
-- **J** casebook, **M** field map, **E** talk to someone nearby.
+- **J** casebook, **M** field map, **E** talk to someone nearby, **B** case
+  brief.
 - In combat, **Space** ends a turn and **T** shows the threat forecast.
 - **F5** save, **F9** load, **Esc** settings.
 
